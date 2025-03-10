@@ -1,0 +1,19 @@
+Describa 3 ventajas y desventajas de la entrevista.
+Indique los 6 principios de las metodologias agiles.
+Describa los artefactos de la metodologia SCRUM.
+
+Describa 3 ventajas y desventajas de las preguntas abiertas.
+Describa 3 ventajas y desventajas de las preguntas cerradas.
+Describa 3 ventajas y desventajas de los Cuestionarios.
+Describa 3 ventajas y desventajas de las JRP.
+Describa 3 ventajas y desventajas de las historia de usuario.
+
+Describa los roles principales de la metodologia SCRUM.
+Describa los roles principales de la metodologia XP.
+Describa cada ciclo de vida del modelo espiral.
+
+Indique las desventajas de las metodologias agiles.
+Indique los problemas a desarrollar una tabla de decision.
+Indique el ciclo de vida de la metodologia XP.
+Indique los principios de la metodologia SCRUM.
+
